@@ -8,8 +8,8 @@
 1. Убедитесь, что у вас установлен Python 3.
 2. Скачайте репозиторий:
    ```sh
-   git clone https://github.com/yourusername/yourrepo.git
-   cd yourrepo
+   git clone https://github.com/1KELER1/ai_frendly
+   cd ai_frendly
    ```
 3. Установите зависимости (если они есть):
    ```sh
@@ -28,7 +28,7 @@
 - Позволяет исключать файлы определённых типов и игнорировать папки.
 
 ## Готовый релиз
-Если вы используете Windows, вы можете скачать готовую исполняемую версию (`.exe`) из раздела [Releases](https://github.com/yourusername/yourrepo/releases).
+Если вы используете Windows, вы можете скачать готовую исполняемую версию (`.exe`) из раздела [Releases](https://github.com/1KELER1/ai_frendly/releases/tag/ai_frendly).
 
 ## Лицензия
 Этот проект распространяется под лицензией MIT. Подробнее см. в файле `LICENSE`.
