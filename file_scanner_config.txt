@@ -1,0 +1,11 @@
+source_folder=E:/React_test/django_in_react/react
+output_file=E:/проекты питон/программа копирования файлов/проверка.txt
+exclude_extensions=.exe, .dll, .zip, .mp4, .jpg, .jpeg, .png, .gif, .bin
+exclude_folders=node_modules, __pycache__, .git, venv, .vscode, build, dist
+exclude_files=App.css
+max_file_size=50000
+output_format=txt
+group_by_type=True
+prioritize_files=settings.py, urls.py, models.py, views.py
+include_metadata=False
+ai_friendly=False
